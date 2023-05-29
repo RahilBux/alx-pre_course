@@ -1,0 +1,1 @@
+git diff [first-branch]...[second-branch]
